@@ -1,5 +1,5 @@
 
-import Header from "./header/header/header"
+import Header from "./header/header"
 import TweetEditor from "./tweet-editor/tweet-editor"
 import Tweets from "./tweet/tweets"
 import data from "../tools/data"
